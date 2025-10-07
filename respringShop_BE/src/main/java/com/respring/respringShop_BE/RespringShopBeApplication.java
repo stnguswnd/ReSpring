@@ -1,13 +1,13 @@
-package com.respring.respringShop;
+package com.respring.respringShop_BE;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RespringShopApplication {
+public class RespringShopBeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RespringShopApplication.class, args);
+		SpringApplication.run(RespringShopBeApplication.class, args);
 	}
 
 }
